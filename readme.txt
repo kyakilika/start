@@ -1,2 +1,2 @@
-This is the start og my work on Git.
+This is the start of my work on Git.
 Sam Kyakilika
